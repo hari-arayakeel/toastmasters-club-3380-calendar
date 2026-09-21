@@ -1,2 +1,8 @@
 # Local Netlify folder
-.netlify
+.netlify/
+
+# Python cache
+__pycache__/
+
+# macOS
+.DS_Store
