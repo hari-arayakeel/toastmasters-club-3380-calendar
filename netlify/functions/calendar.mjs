@@ -112,12 +112,11 @@ export default async () => {
     console.error(error);
 
     return new Response(
-      "Unable to retrieve the Toastmasters calendar.",
+      `Calendar error: ${error.message}`,
       {
         status: 500,
         headers: {
-          "Content-Type":
-            "text/plain; charset=utf-8",
+          "Content-Type": "text/plain; charset=utf-8",
         },
       }
     );
