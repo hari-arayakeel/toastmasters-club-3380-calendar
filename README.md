@@ -36,3 +36,17 @@ The automation runs in Google Apps Script, so the solution continues to operate 
 │ • Calendar subscription             │
 │ • Daily automatic refresh           │
 └─────────────────────────────────────┘
+
+## 📅 Calendar Setup
+
+### 🍎 Apple / iCloud Calendar
+
+Follow the steps in the guide below to add the Toastmasters calendar to Apple Calendar and sync it through iCloud.
+
+![Apple Calendar setup](images/icloud-calendar-setup.png)
+
+### 📅 Google Calendar
+
+Follow the guide below to add the Toastmasters calendar to Google Calendar. Once added, it can also be viewed through the Google Calendar mobile app on Android or iPhone.
+
+![Google Calendar setup](images/google-calendar-setup.png)
